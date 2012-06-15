@@ -1,0 +1,11 @@
+<snippet>
+	<tabTrigger>while</tabTrigger>
+    <description>While Loop</description>
+    <scope>source.boo</scope>
+
+	<content><![CDATA[
+while ${1:true}:
+	${2:pass}
+]]></content>
+
+</snippet>

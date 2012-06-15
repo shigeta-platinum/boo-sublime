@@ -1,0 +1,14 @@
+<snippet>
+	<tabTrigger>if</tabTrigger>
+    <description>If-Else Statement</description>
+    <scope>source.boo</scope>
+
+	<content><![CDATA[
+if ${1:true}:
+	${2:pass}
+
+else:
+	${3:pass}
+]]></content>
+
+</snippet>

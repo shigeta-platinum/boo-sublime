@@ -1,0 +1,11 @@
+<snippet>
+	<tabTrigger>unless</tabTrigger>
+    <description>unless Statement</description>
+    <scope>source.boo</scope>
+
+	<content><![CDATA[
+unless ${1:true}:
+	${2:pass}
+]]></content>
+
+</snippet>

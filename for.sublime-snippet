@@ -1,0 +1,11 @@
+<snippet>
+	<tabTrigger>for</tabTrigger>
+    <description>For Loop</description>
+    <scope>source.boo</scope>
+
+	<content><![CDATA[
+for ${1:var} in ${2:range}:
+	${3:pass}
+]]></content>
+
+</snippet>

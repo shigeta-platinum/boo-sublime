@@ -1,0 +1,11 @@
+<snippet>
+	<tabTrigger>def</tabTrigger>
+    <description>Define function</description>
+    <scope>source.boo</scope>
+
+	<content><![CDATA[
+def ${1:myDef}(${2:parameters}):
+	${3:pass}
+]]></content>
+
+</snippet>
